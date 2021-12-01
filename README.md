@@ -8,3 +8,4 @@ The exercises below are designed to get you comfortable writing basic JavaScript
 2. Open the `index.html` file in your browser
 3. Complete the exercises in the `./exercises` folder.
 4. Reload the `index.html` and click **"Run"** to see if the exercise was completed successfully.
+# JS101Exercises
