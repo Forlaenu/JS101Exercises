@@ -4,3 +4,13 @@
 // integer return an empty array
 //
 // Name the function "finalFunction"
+function finalFunction(number) {
+    let arr = [];
+    if(number > 0){
+        for(x=0;x<number;x++){
+            arr.push("a string")
+        }
+        return arr;
+    }
+    else{return []}
+}
